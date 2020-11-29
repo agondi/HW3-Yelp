@@ -22,7 +22,7 @@ private const val BASE_URL = "https://api.yelp.com/v3/"
 private const val INIT_TERM = "Avocado Toast"
 private const val INIT_LOC = "New York"
 private const val TAG = "MainActivity"
-private const val API_KEY = "1Ysv4-loYYSix9QpS8aL0hCUT0GQrsmEkvcXlNsDu2o_uzwU2GdJQshi5Ww39KVfetQVP_0aA5juuoelHslzoXRlEBbF2ax51IAN2eWzmuptCBxcv6IYE6_3twijX3Yx"
+private const val API_KEY = "Qjc33XrfkiPIRqEt0RFttDNN-_wHXFrRW6P8e_FYApVpFd8nf7-x6HD7OXIRaRFJKcTaXrVpCYpC2zGgwEHDKkS1pBO1YHJ7q8drx0PIqkFNgtk0KUxXCcLjG6HDX3Yx"
 
 class MainActivity : AppCompatActivity() {
 
