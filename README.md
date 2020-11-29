@@ -4,7 +4,7 @@
 
 **Yelp194** displays a list of search results from the Yelp API and displays the results in a scrollable list. 
 
-Time spent: **4** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Functionality 
 
@@ -29,6 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+For some reason, Yelp APIs and setting up an account don't work from India properly. Had to set up a VPN to circumvent the issue.
 
 ## License
 
