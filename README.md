@@ -14,16 +14,15 @@ The following **required** functionality is completed:
 * [x] The search results are displayed in a RecyclerView
 
 The following **extensions** are implemented:
-* [x] Added Functionality to allow user to search Yelp for custom description and location
+* [x] Custom description and location
 * [x] Added Yelp Logo 
-* [x] Custom Color Pallette
 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-
+<img src='Yelp194.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
